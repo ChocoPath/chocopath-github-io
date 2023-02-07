@@ -157,7 +157,7 @@ function Education() {
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2012 - 2015</div>
                     <div className=" text-sm md:text-base">General Science</div>
-                    {/* <div className="text-sm text-gray-300 font-bold mt-1">Percentile Rank &nbsp; 94.1%</div> */}
+                    <div className="text-sm text-gray-300 font-bold mt-1">Courses : Elective Maths, Physics, Chemistry, Biology</div>
                 </li>
             </ul>
         </>
