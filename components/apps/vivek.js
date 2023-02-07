@@ -153,7 +153,7 @@ function Education() {
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
-                    Presbyterian Boys' Secondary School (PRESEC)<sup>th</sup> (GSEB)
+                    Presbyterian Boys' Secondary School (PRESEC)
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2012 - 2015</div>
                     <div className=" text-sm md:text-base">General Science</div>
