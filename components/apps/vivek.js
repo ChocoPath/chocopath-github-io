@@ -149,7 +149,7 @@ function Education() {
                     </div>
                     <div className=" text-sm text-gray-400 mt-0.5">2016 - 2020</div>
                     <div className=" text-sm md:text-base">Computer Science</div>
-                    {/* <div className="text-sm text-gray-300 font-bold mt-1">CGPA &nbsp; 9.35/10</div> */}
+                    <div className="text-sm text-gray-300 font-bold mt-1">Courses: Programming fundamentals in C++, Object Oriented Programming in Java and C++, Accounting Fundamentals, Algorithms and Data Structures, Calculus, Linear Algebra, Probability and Statistics, Numerical Methods, Computer Theory, Management and Organizational Behavior, and Software Engineering. </div>
                 </li>
                 <li className="list-disc mt-5">
                     <div className=" text-lg md:text-xl text-left font-bold leading-tight">
