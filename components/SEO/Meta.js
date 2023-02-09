@@ -5,14 +5,14 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
+            <title>Worsley Quaye Portfolio - DevOps Engineer</title>
             <meta charSet="utf-8" />
-            <meta name="title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="title" content="Worsley Quaye Portfolio - DevOps Engineer" />
             <meta name="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="author" content="Vivek Patel (vivek9patel)" />
+                content="Worsley Quaye's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="author" content="Worsley Quaye (ChocoPath)" />
             <meta name="keywords"
-                content="vivek9patel, vivek9patel's portfolio, vivek9patel linux, ubuntu portfolio, vivek patel protfolio,vivek patel computer, vivek patel, vivek ubuntu, vivek patel ubuntu portfolio" />
+                content="Worsley Quaye, Worsley's portfolio, ChocoPath linux, ubuntu portfolio, ChocoPath patel protfolio,Worsley patel computer, Worsley Quaye, Wprsley ubuntu, Worsley Quaye ubuntu portfolio" />
             <meta name="robots" content="index, follow" />
             <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
             <meta name="language" content="English" />
@@ -22,25 +22,25 @@ export default function Meta() {
             /* Search Engine */
             <meta name="image" content="images/logos/fevicon.png" />
             /* Schema.org for Google */
-            <meta itemProp="name" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta itemProp="name" content="Worsley Quaye Portfolio - DevOps Engineer" />
             <meta itemProp="description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Worsley Quaye's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta itemProp="image" content="images/logos/fevicon.png" />
             /* Twitter */
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="twitter:title" content="Worsley Quaye Portfolio - DevOps Engineer" />
             <meta name="twitter:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
-            <meta name="twitter:site" content="vivek9patel" />
-            <meta name="twitter:creator" content="vivek9patel" />
+                content="Worsley Quaye's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+            <meta name="twitter:site" content="Chocolate_Path" />
+            <meta name="twitter:creator" content="Chocolate_Path" />
             <meta name="twitter:image:src" content="images/logos/logo_1024.png" />
             /* Open Graph general (Facebook, Pinterest & Google+) */
-            <meta name="og:title" content="Vivek Patel Portfolio - Computer Engineering Student" />
+            <meta name="og:title" content="Worsley Quaye Portfolio - DevOps Engineer" />
             <meta name="og:description"
-                content="Vivek Patel's (vivek9patel) Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
+                content="Worsley Quaye's Personal Portfolio Website. Made with Ubuntu 20.4 (Linux) theme by Next.js and Tailwind CSS." />
             <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://vivek9patel.github.io/" />
-            <meta name="og:site_name" content="Vivek Patel Personal Portfolio" />
+            <meta name="og:url" content="https://chocopath-github-io.vercel.app/" />
+            <meta name="og:site_name" content="Worsley Quaye Personal Portfolio" />
             <meta name="og:locale" content="en_IN" />
             <meta name="og:type" content="website" />
 
